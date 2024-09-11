@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435444832386",
+    "project_id": "recess-ad328",
+    "storage_bucket": "recess-ad328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435444832386:android:0a1a8755a7554f3386fc9b",
+        "android_client_info": {
+          "package_name": "com.app.recess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvHn4NBO1-t5ppYWHwerNuIaZCzo9OeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
